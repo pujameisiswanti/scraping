@@ -35,5 +35,3 @@ df_busu[['userName', 'score', 'at', 'content']].head()
 my_df = df_busu[['userName', 'score', 'at', 'content']]
 
 my_df.to_csv("scraperdata_freefirereviews.csv", index = False)
-
-"""https://youtu.be/-QUyD0YFYb0?si=r5gOIRwQH_i7zpcq"""
